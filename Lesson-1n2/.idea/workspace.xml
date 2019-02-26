@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5311f579-798c-401b-87dd-668b7b1e0334" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Basic/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Basic/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5311f579-798c-401b-87dd-668b7b1e0334" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +29,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
